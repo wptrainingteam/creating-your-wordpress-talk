@@ -72,7 +72,7 @@ _This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wp
 
 ## Workshop
 
-_The first material repeats from Speaker lesson 1, "Finding Your Topic." If you ran lesson 1, start here. If you did not, grab sections from "toilet" to "Talk Formats" from [lesson 1, "Finding Your Topic."](https://make.wordpress.org/training/handbook/speaker-training/finding-a-topic-for-a-wordpress-talk/#workshop)_
+_The first material repeats from Speaker lesson 1, "Finding Your Topic." If you ran lesson 1, start here. If you did not, grab sections from "toilet" to "Talk Formats" from [lesson 1, "Finding Your Topic."](https://github.com/wptrainingteam/finding-a-topic-for-a-wordpress-talk#workshop)_
 
 _Note: The first 2 exercises that follow here are repeated from the last 2 exercises of lesson 1\. Only run these once._  
 
