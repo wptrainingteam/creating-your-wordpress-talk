@@ -68,7 +68,7 @@ After completing this lesson, you will be able to:
 
 ## Teacher Notes
 
-_This section repeats from the [Teacher Notes in Lesson 1](https://make.wordpress.org/training/handbook/speaker-training/finding-a-topic-for-a-wordpress-talk/#teacher-notes). It's very important. Please read it._  
+_This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wptrainingteam/finding-a-topic-for-a-wordpress-talk#teacher-notes). It's very important. Please read it._  
 
 ## Workshop
 
