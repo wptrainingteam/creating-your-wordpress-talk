@@ -36,7 +36,7 @@ Each participant will come out of the workshop with a WordCamp or meetup talk ou
 **Accessibility**
 
 * This venue should have [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].
-* Please do not  wear scents. Many people are allergic to them.
+* Please do not wear scents. Many people are allergic to them.
 
 ## Prerequisite Skills
 
